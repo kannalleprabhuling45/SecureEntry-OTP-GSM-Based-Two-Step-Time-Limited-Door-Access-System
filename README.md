@@ -49,7 +49,7 @@ The system integrates embedded C programming, UART communication, GSM technology
 | Component                    | Description                       |
 | ---------------------------- | --------------------------------- |
 | LPC2148 ARM7 Microcontroller | Main processing and control unit  |
-| GSM Module (SIM800/SIM900)   | Sends OTP through SMS             |
+| GSM Module (SIM800/SIM900/SIMcom A7670C)   | Sends OTP through SMS |
 | 4×4 Matrix Keypad            | Password and OTP input            |
 | 16×2 LCD Display             | Displays system information       |
 | L293D Motor Driver           | Controls DC motor direction       |
